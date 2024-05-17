@@ -16,5 +16,4 @@ We are going to build a basic model for predicting customer churn using Telco Cu
     - Feature Selection
 - Prediction using Logistic Regression
 - Prediction using Support Vector Classifier
-- Prediction using Decision Tree Classifier
-- Prediction using KNN Classifier
+
